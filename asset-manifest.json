@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cbioportal-clinical-timeline-sample-app/static/css/main.eddf64b5.css",
-    "main.js": "/cbioportal-clinical-timeline-sample-app/static/js/main.54ecf8a1.js",
+    "main.css": "/cbioportal-clinical-timeline-sample-app/static/css/main.2ae5c836.css",
+    "main.js": "/cbioportal-clinical-timeline-sample-app/static/js/main.7a04e525.js",
     "static/js/453.e1b72dcb.chunk.js": "/cbioportal-clinical-timeline-sample-app/static/js/453.e1b72dcb.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/cbioportal-clinical-timeline-sample-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/cbioportal-clinical-timeline-sample-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -9,12 +9,12 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/cbioportal-clinical-timeline-sample-app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/cbioportal-clinical-timeline-sample-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/cbioportal-clinical-timeline-sample-app/index.html",
-    "main.eddf64b5.css.map": "/cbioportal-clinical-timeline-sample-app/static/css/main.eddf64b5.css.map",
-    "main.54ecf8a1.js.map": "/cbioportal-clinical-timeline-sample-app/static/js/main.54ecf8a1.js.map",
+    "main.2ae5c836.css.map": "/cbioportal-clinical-timeline-sample-app/static/css/main.2ae5c836.css.map",
+    "main.7a04e525.js.map": "/cbioportal-clinical-timeline-sample-app/static/js/main.7a04e525.js.map",
     "453.e1b72dcb.chunk.js.map": "/cbioportal-clinical-timeline-sample-app/static/js/453.e1b72dcb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eddf64b5.css",
-    "static/js/main.54ecf8a1.js"
+    "static/css/main.2ae5c836.css",
+    "static/js/main.7a04e525.js"
   ]
 }
